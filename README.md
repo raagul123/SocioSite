@@ -1,1 +1,1 @@
-raagul3700.pythonanywhere.com
+http://raagul3700.pythonanywhere.com/
